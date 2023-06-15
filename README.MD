@@ -1,0 +1,1 @@
+This repository to get data from twitter using liblary from snscrape.
